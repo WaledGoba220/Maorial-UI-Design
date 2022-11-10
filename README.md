@@ -1,7 +1,7 @@
 # Maorial-UI-Design
 Some of material Ui Design Android Native Kotlin
 
-1- Floating Actoion Button
+1- Floating Action Button
 
 2- Card View
 
@@ -9,7 +9,7 @@ Some of material Ui Design Android Native Kotlin
 
 4- Chips
 
-5- Bottom Navigaton
+5- Bottom Navigation
 
 6- Alert Dialog
 
