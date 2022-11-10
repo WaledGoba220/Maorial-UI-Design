@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMaterialUiDesign</string>
+    <string name="username">UserName</string>
+    <string name="favorites">Favorites</string>
+    <string name="music">Musics</string>
+    <string name="places">Places</string>
+    <string name="news">News</string>
+</resources>
